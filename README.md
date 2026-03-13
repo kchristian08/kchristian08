@@ -27,11 +27,7 @@ Valorizo o processo, a evolução constante e o reconhecimento que vem como cons
 ### 💻 Languages
 [![Programming Languages](https://skillicons.dev/icons?i=js,html,css,py,mysql)](https://skillicons.dev)
 ### 🔧 Tools and extras
-[![Tools and extras](https://skillicons.dev/icons?i=git,github,figma,notion)](https://skillicons.dev)
-
-### Softwares:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><br>
-##
+[![Tools and extras](https://skillicons.dev/icons?i=vscode,git,github,figma,notion)](https://skillicons.dev)
 
 <!-- Comunication -->
 <div> 

@@ -37,3 +37,7 @@ Valorizo o processo, a evolução constante e o reconhecimento que vem como cons
   <a href = "mailto:christiankallil08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/christian-kallil-dantas-farah-46270b356/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<!--![kchristian08's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kchristian08&theme=tokyonight&hide_border=true) -->
+<img src="https://raw.githubusercontent.com/kchristian08/kchristian08/output/snake.svg" alt="Snake animation" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>

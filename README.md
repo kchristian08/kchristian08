@@ -18,7 +18,7 @@ Valorizo o processo, a evolução constante e o reconhecimento que vem como cons
 
 📌 Objetivo atual: construir um portfólio sólido e conquistar minha primeira oportunidade na área.
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kchristian08&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="175em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchristian08&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="175em" />
 </p>

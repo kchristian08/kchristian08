@@ -18,19 +18,22 @@ Valorizo o processo, a evolução constante e o reconhecimento que vem como cons
 
 📌 Objetivo atual: construir um portfólio sólido e conquistar minha primeira oportunidade na área.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Christian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Christian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Christian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Christian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kchristian08&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="175em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchristian08&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="175em" />
+</p>
+
+## ⚒️ Languages and tools
+### 💻 Languages
+[![Programming Languages](https://skillicons.dev/icons?i=js,html,css,py,cs,mysql)](https://skillicons.dev)
+### 🔧 Tools and extras
+[![Tools and extras](https://skillicons.dev/icons?i=git,github,figma,notion)](https://skillicons.dev)
 
 ### Softwares:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><br>
-
 ##
 
-
+<!-- Comunication -->
 <div> 
   <a href = "https://www.instagram.com/christiank.08/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://discord.com/users/699869254979289158" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 

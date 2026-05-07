@@ -1,6 +1,6 @@
 ## Olá! Prazer, Me Chamo Christian Kallil!
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 🇧🇷
 
 Sou estudante de Informática para Internet no IFRN, focado em me tornar desenvolvedor Front-end.  
 Acredito que tecnologia não é apenas código — é construção de experiência, percepção e impacto.
